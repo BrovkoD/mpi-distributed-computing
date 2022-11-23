@@ -1,1 +1,1 @@
-# MPI
+# MPI. To start the application run the following command in terminal: "mpirun -n [number of processes] python main.py"
